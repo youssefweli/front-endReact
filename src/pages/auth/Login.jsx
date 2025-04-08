@@ -4,10 +4,9 @@ import {
   TextField,
   Button,
   Typography,
-  Divider,
-  IconButton,
+
 } from "@mui/material";
-import GoogleIcon from "@mui/icons-material/Google";
+
 import { useNavigate } from "react-router-dom";
 import { AuthContext } from "../../context/AuthContext";
 

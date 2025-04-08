@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const base = "http://localhost:8080/api/url";
+const base = "http://localhost:8080/api/ticket";
 
 
 export const getAllTicket = async()=>{
